@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
+
+.container{
+    font-family: 'Open Sans', sans-serif;
+    height: calc(100vh - 100px);
+    display: flex;
+}
+
+.gridItem{
+    background-color: azure;
+    width: 50%;
+    height: 50vh;
+    border-radius: 25px;
+    text-align: center;
+    padding: 20px;
+}
+
+.currentCount{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 150px;
+}
+
+.buttong{
+    margin-top: 25px;
+    width: 90%;
+}
+
+.btn{
+    width: 50%;
+}

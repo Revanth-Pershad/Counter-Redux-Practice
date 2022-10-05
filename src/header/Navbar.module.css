@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
+
+
+#appb{
+    border-bottom : solid black 1px; 
+    font-family: 'Open Sans', sans-serif;
+}
+
+.typo{
+    font-family: 'Open Sans', sans-serif;
+    font-weight:bold;
+}
